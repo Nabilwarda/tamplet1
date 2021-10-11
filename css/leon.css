@@ -397,7 +397,5 @@ html {
   font-weight: bold;
   color: #10cab7;
 }
-.fab fa-facebook-f:hover {
-  pointer-events: stroke;
-}
+
 /* End Footer */
